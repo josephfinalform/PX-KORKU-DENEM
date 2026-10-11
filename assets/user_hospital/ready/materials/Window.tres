@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" format=3]
+
+[resource]
+resource_name = "Window"
+transparency = 1
+albedo_color = Color(0.1, 0.19, 0.23, 0.4)
+roughness = 0.2
+texture_filter = 5
